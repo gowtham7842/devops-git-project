@@ -2,13 +2,13 @@
 # devops-git-project
 devops-git-project-version control
 =======
-#DevOps Git Version Control Project
+# DevOps Git Version Control Project
 
-##Overview
+## Overview
 
 This project demonstrates Git and GitHub best practices as part of DevOps Internship Task 4.
 
-##Objectives
+## Objectives
 
 Initialize and manage a Git repository.
 
@@ -22,7 +22,7 @@ Create Git tags.
 
 Document the workflow using Markdown.
 
-##Tools Used
+## Tools Used
 
 Git
 
@@ -32,7 +32,7 @@ Git Bash
 
 Markdown
 
-##Branching Strategy
+## Branching Strategy
 
 main: Stable project version.
 
@@ -40,7 +40,7 @@ dev: Development and integration branch.
 
 feature/readme: Branch for README improvements.
 
-##Workflow
+## Workflow
 
 Create and commit project files.
 
@@ -56,11 +56,13 @@ Open another pull request to merge dev into main.
 
 Create a version tag.
 
-##Documentation
+## Documentation
 
 See Git Workflow for the project workflow and commands.
 
-##Outcome
+## Outcome
 
 This repository demonstrates basic version control, branching, collaboration, and release tagging using Git and GitHub.
+## Learning Notes
+This project demonstrates feature branching and pull request workflows. 
 >>>>>>> 75d6f7f (Initial commit: add project documentation)
